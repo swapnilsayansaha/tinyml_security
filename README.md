@@ -44,7 +44,7 @@ We have three different applications, namely image recognition (dataset: CIFAR 1
 
 - TCN [[paper 1](https://link.springer.com/content/pdf/10.1007/978-3-319-49409-8_7.pdf)][[paper 2](https://arxiv.org/abs/1609.03499)][[code](https://github.com/philipperemy/keras-tcn)]: 93%, 10.55k
 - Bonsai [[paper](http://proceedings.mlr.press/v70/kumar17a/kumar17a.pdf)][[code](https://github.com/microsoft/EdgeML)]: 72.6%, 6.31k
-- ProtoNN [[paper](http://proceedings.mlr.press/v70/gupta17a/gupta17a.pdf)][[code](https://github.com/microsoft/EdgeML)]:: 72.0%, 6.23k
-- FastRNN [[paper](https://proceedings.neurips.cc/paper/2018/file/ab013ca67cf2d50796b0c11d1b8bc95d-Paper.pdf)][[code](https://github.com/microsoft/EdgeML)]:: 98.35, 6.04 kB
-- FastGRNN [[paper](https://proceedings.neurips.cc/paper/2018/file/ab013ca67cf2d50796b0c11d1b8bc95d-Paper.pdf)][[code](https://github.com/microsoft/EdgeML)]:: 91.6%, 13.12 kB
+- ProtoNN [[paper](http://proceedings.mlr.press/v70/gupta17a/gupta17a.pdf)][[code](https://github.com/microsoft/EdgeML)]: 72.0%, 6.23k
+- FastRNN [[paper](https://proceedings.neurips.cc/paper/2018/file/ab013ca67cf2d50796b0c11d1b8bc95d-Paper.pdf)][[code](https://github.com/microsoft/EdgeML)]: 98.35, 6.04 kB
+- FastGRNN [[paper](https://proceedings.neurips.cc/paper/2018/file/ab013ca67cf2d50796b0c11d1b8bc95d-Paper.pdf)][[code](https://github.com/microsoft/EdgeML)]: 91.6%, 13.12 kB
 
