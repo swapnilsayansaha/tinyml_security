@@ -1,0 +1,1 @@
+MaxTestAcc: 0.9166667 at Epoch(totalEpochs): 298(300) ModelSize: 13.12890625 KB hasSparse: False Param Directory: /home/nesl/209as_sec/human_act/TinyML Models/FastGRNN/trained_models/FastGRNNResults/2022-01-24T17-24-25

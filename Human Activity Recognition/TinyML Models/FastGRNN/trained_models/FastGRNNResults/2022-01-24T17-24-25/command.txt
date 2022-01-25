@@ -1,0 +1,1 @@
+python /home/nesl/swapnil_debug/lib/python3.8/site-packages/ipykernel_launcher.py -f /home/nesl/.local/share/jupyter/runtime/kernel-c3655877-dca7-4889-8d25-cd2a3fa62787.json
