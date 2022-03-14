@@ -1,4 +1,4 @@
-# Security and Privacy Issues in TinyML Systems
+# TinyML has a Security Problem - An Adversarial Perturbation Perspective
 Course Project Repository for ECE 209AS (Secure and Trustworthy Edge Computing Systems), Winter 2022. Members: Swapnil Sayan Saha, Khushbu Pahwa, and Basheer Ammar. Supervisor: Professor Nader Sehatbakhsh.
 
 For any information, contact at swapnilsayan@g.ucla.edu. 
