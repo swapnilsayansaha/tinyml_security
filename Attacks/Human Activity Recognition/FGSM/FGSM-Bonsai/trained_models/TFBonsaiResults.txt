@@ -1,0 +1,1 @@
+MaxTestAcc: 0.73 at Epoch(totalEpochs): 968(1000) ModelSize: 14.8671875 KB hasSparse: True Param Directory: /home/nesl/209as_sec/human_act/TinyML Models/Bonsai/trained_models/TFBonsaiResults/15_57_28_23_01_22
