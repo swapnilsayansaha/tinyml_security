@@ -1,5 +1,8 @@
 # TinyML has a Security Problem - An Adversarial Perturbation Perspective
-Course Project Repository for ECE 209AS (Secure and Trustworthy Edge Computing Systems), Winter 2022. Members: Swapnil Sayan Saha, Khushbu Pahwa, and Basheer Ammar. Supervisor: Professor Nader Sehatbakhsh.
+
+Watch the presentation video here: https://www.youtube.com/watch?v=XSgr5yvSx0M
+
+Course Project Repository for UCLA ECE 209AS (Secure and Trustworthy Edge Computing Systems), Winter 2022. Members: Swapnil Sayan Saha, Khushbu Pahwa, and Basheer Ammar. Supervisor: Professor Nader Sehatbakhsh.
 
 For any information, contact at swapnilsayan@g.ucla.edu. 
 
@@ -15,7 +18,7 @@ costs in the TinyML workflow.
 While solutions for certifiable adversarial robustness are well studied in the machine learning community, our focus is on providing a starting point to make the recent advancements in TinyML more backward compatible and functionally equivalent (high fidelity) to upstream models without adding significant training and compute overhead.
 
 ## Application and Model Information:
-We have three different applications, namely image recognition (dataset: CIFAR 10), audio keyword spotting (dataset: Google Speech Commands), and human activity detection (dataset: AURITUS). We trained several large models and several TinyML models for each applications. Please check our report ```Writeup TinyML.pdf``` and presentation ```Presentation_TinyML.pdf``` for more information.
+We have three different applications, namely image recognition (dataset: CIFAR 10), audio keyword spotting (dataset: Google Speech Commands), and human activity detection (dataset: AURITUS). We trained several large models and several TinyML models for each applications. Please check our report ```Writeup TinyML.pdf``` and presentation ```Presentation_TinyML.pdf``` for more information. Please watch the presentation video (https://www.youtube.com/watch?v=XSgr5yvSx0M) as well.
 
 ## Requirements:
 
